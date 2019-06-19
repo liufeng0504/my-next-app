@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "alias": "my-aliased-next-app",
+    "name": "my-next-app",
+    "builds": [
+        {
+            "src": "next.config.js",
+            "use": "@now/next"
+        }
+    ]
+}
